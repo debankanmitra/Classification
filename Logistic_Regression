@@ -1,0 +1,7 @@
+WHERE WE USE LOGISTIC REGRESSION?
+When to use logistic regression. Logistic regression is applied to predict the categorical dependent variable. In other words, it's used when the prediction is categorical, for example, yes or no, true or false, 0 or 1.
+ It is used to calculate or predict the probability of a binary (yes/no) event occurring. An example of logistic regression could be applying machine learning to determine if a person is likely to be infected with COVID-19 or not.
+ 
+ Logistic regression works with already identified identified independent variable.
+ support vector machines It works well with unstructured and semi-structured data like text and images.
+ link: https://medium.com/axum-labs/logistic-regression-vs-support-vector-machines-svm-c335610a3d16
